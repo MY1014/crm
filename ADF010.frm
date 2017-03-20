@@ -5,7 +5,7 @@ Object = "{604A59D5-2409-101D-97D5-C6626B63EF2D}#1.0#0"; "NUM50S.OCX"
 Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
 Object = "{FE1D09E3-6FC7-101D-836D-3E0683BCA07A}#1.0#0"; "DATE50S.OCX"
 Begin VB.Form ADF010 
-   Caption         =   "キャットハンド顧客管理test"
+   Caption         =   "キャットハンド顧客管理"
    ClientHeight    =   13530
    ClientLeft      =   2700
    ClientTop       =   915
